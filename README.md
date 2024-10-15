@@ -4,12 +4,12 @@ A cool vidsrc(.me/.net/.xyz/.in/.io) extractor in typescript.(proof of concept)
 ### QUICK
 - *API (vercel)* :
 
-  [https://github.com/cool-dev-guy/vidsrc.ts/tree/vercel](https://github.com/cool-dev-guy/vidsrc.ts/tree/vercel)
+  [https://github.com/harisnaeemofficial/vidsrc.ts/tree/vercel](https://github.com/harisnaeemofficial/vidsrc.ts/tree/vercel)
 
-  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cool-dev-guy/vidsrc.ts/tree/vercel)
+  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/harisnaeemofficial/vidsrc.ts/tree/vercel)
 - MODULE (node/deno) :
 
-  [https://github.com/cool-dev-guy/vidsrc.ts/tree/main](https://github.com/cool-dev-guy/vidsrc.ts/tree/main)
+  [https://github.com/harisnaeemofficial/vidsrc.ts/tree/main](https://github.com/harisnaeemofficial/vidsrc.ts/tree/main)
   
 ### FEATURES
 - Nodejs & deno compatible (Deno : `deno run --allow-net vidsrc.ts`)
